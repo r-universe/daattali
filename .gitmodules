@@ -13,16 +13,6 @@
 	url = https://github.com/daattali/colourpicker
 	shallow = true
 	registered = true
-[submodule "ddpcr"]
-	path = ddpcr
-	url = https://github.com/daattali/ddpcr
-	shallow = true
-	registered = true
-[submodule "ggExtra"]
-	path = ggExtra
-	url = https://github.com/daattali/ggextra
-	shallow = true
-	registered = true
 [submodule "lightsout"]
 	path = lightsout
 	url = https://github.com/daattali/lightsout
