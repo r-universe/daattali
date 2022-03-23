@@ -4,11 +4,5 @@
     "url": "https://github.com/daattali/shinydisconnect",
     "via": ["ddpcr"],
     "from": "ddpcr"
-  },
-  {
-    "package": "shinydisconnect",
-    "url": "https://github.com/daattali/shinydisconnect",
-    "via": ["ggExtra"],
-    "from": "ggExtra"
   }
 ]
