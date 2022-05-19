@@ -33,6 +33,11 @@
 	url = https://github.com/daattali/shinyalert
 	shallow = true
 	registered = true
+[submodule "shinybrowser"]
+	path = shinybrowser
+	url = https://github.com/daattali/shinybrowser
+	shallow = true
+	registered = true
 [submodule "shinycssloaders"]
 	path = shinycssloaders
 	url = https://github.com/daattali/shinycssloaders
