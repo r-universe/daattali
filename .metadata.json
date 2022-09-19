@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "ddpcr",
+    "oncran": true
+  },
+  {
     "package": "ggExtra",
     "oncran": true
   },
