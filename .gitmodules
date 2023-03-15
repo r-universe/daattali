@@ -3,9 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "shinyjs"]
-	path = shinyjs
-	url = https://github.com/daattali/shinyjs
+[submodule "addinslist"]
+	path = addinslist
+	url = https://github.com/daattali/addinslist
+	shallow = true
+	registered = true
+[submodule "colourpicker"]
+	path = colourpicker
+	url = https://github.com/daattali/colourpicker
 	shallow = true
 	registered = true
 [submodule "ddpcr"]
@@ -13,34 +18,9 @@
 	url = https://github.com/daattali/ddpcr
 	shallow = true
 	registered = true
-[submodule "shinybrowser"]
-	path = shinybrowser
-	url = https://github.com/daattali/shinybrowser
-	shallow = true
-	registered = true
-[submodule "shinyscreenshot"]
-	path = shinyscreenshot
-	url = https://github.com/daattali/shinyscreenshot
-	shallow = true
-	registered = true
-[submodule "addinslist"]
-	path = addinslist
-	url = https://github.com/daattali/addinslist
-	shallow = true
-	registered = true
 [submodule "ggExtra"]
 	path = ggExtra
 	url = https://github.com/daattali/ggextra
-	shallow = true
-	registered = true
-[submodule "shinycssloaders"]
-	path = shinycssloaders
-	url = https://github.com/daattali/shinycssloaders
-	shallow = true
-	registered = true
-[submodule "shinydisconnect"]
-	path = shinydisconnect
-	url = https://github.com/daattali/shinydisconnect
 	shallow = true
 	registered = true
 [submodule "lightsout"]
@@ -53,9 +33,29 @@
 	url = https://github.com/daattali/shinyalert
 	shallow = true
 	registered = true
-[submodule "colourpicker"]
-	path = colourpicker
-	url = https://github.com/daattali/colourpicker
+[submodule "shinybrowser"]
+	path = shinybrowser
+	url = https://github.com/daattali/shinybrowser
+	shallow = true
+	registered = true
+[submodule "shinycssloaders"]
+	path = shinycssloaders
+	url = https://github.com/daattali/shinycssloaders
+	shallow = true
+	registered = true
+[submodule "shinydisconnect"]
+	path = shinydisconnect
+	url = https://github.com/daattali/shinydisconnect
+	shallow = true
+	registered = true
+[submodule "shinyjs"]
+	path = shinyjs
+	url = https://github.com/daattali/shinyjs
+	shallow = true
+	registered = true
+[submodule "shinyscreenshot"]
+	path = shinyscreenshot
+	url = https://github.com/daattali/shinyscreenshot
 	shallow = true
 	registered = true
 [submodule "timevis"]

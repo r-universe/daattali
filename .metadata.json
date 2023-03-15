@@ -1,6 +1,10 @@
 [
   {
-    "package": "shinyjs",
+    "package": "addinslist",
+    "oncran": true
+  },
+  {
+    "package": "colourpicker",
     "oncran": true
   },
   {
@@ -8,27 +12,7 @@
     "oncran": true
   },
   {
-    "package": "shinybrowser",
-    "oncran": true
-  },
-  {
-    "package": "shinyscreenshot",
-    "oncran": true
-  },
-  {
-    "package": "addinslist",
-    "oncran": true
-  },
-  {
     "package": "ggExtra",
-    "oncran": true
-  },
-  {
-    "package": "shinycssloaders",
-    "oncran": true
-  },
-  {
-    "package": "shinydisconnect",
     "oncran": true
   },
   {
@@ -40,7 +24,23 @@
     "oncran": true
   },
   {
-    "package": "colourpicker",
+    "package": "shinybrowser",
+    "oncran": true
+  },
+  {
+    "package": "shinycssloaders",
+    "oncran": true
+  },
+  {
+    "package": "shinydisconnect",
+    "oncran": true
+  },
+  {
+    "package": "shinyjs",
+    "oncran": true
+  },
+  {
+    "package": "shinyscreenshot",
     "oncran": true
   },
   {
