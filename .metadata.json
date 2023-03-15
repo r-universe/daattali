@@ -1,10 +1,6 @@
 [
   {
-    "package": "addinslist",
-    "oncran": true
-  },
-  {
-    "package": "colourpicker",
+    "package": "shinyjs",
     "oncran": true
   },
   {
@@ -12,19 +8,19 @@
     "oncran": true
   },
   {
-    "package": "ggExtra",
-    "oncran": true
-  },
-  {
-    "package": "lightsout",
-    "oncran": true
-  },
-  {
-    "package": "shinyalert",
-    "oncran": true
-  },
-  {
     "package": "shinybrowser",
+    "oncran": true
+  },
+  {
+    "package": "shinyscreenshot",
+    "oncran": true
+  },
+  {
+    "package": "addinslist",
+    "oncran": true
+  },
+  {
+    "package": "ggExtra",
     "oncran": true
   },
   {
@@ -36,11 +32,15 @@
     "oncran": true
   },
   {
-    "package": "shinyjs",
+    "package": "lightsout",
     "oncran": true
   },
   {
-    "package": "shinyscreenshot",
+    "package": "shinyalert",
+    "oncran": true
+  },
+  {
+    "package": "colourpicker",
     "oncran": true
   },
   {

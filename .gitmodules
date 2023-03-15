@@ -3,14 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "addinslist"]
-	path = addinslist
-	url = https://github.com/daattali/addinslist
-	shallow = true
-	registered = true
-[submodule "colourpicker"]
-	path = colourpicker
-	url = https://github.com/daattali/colourpicker
+[submodule "shinyjs"]
+	path = shinyjs
+	url = https://github.com/daattali/shinyjs
 	shallow = true
 	registered = true
 [submodule "ddpcr"]
@@ -18,24 +13,24 @@
 	url = https://github.com/daattali/ddpcr
 	shallow = true
 	registered = true
-[submodule "ggExtra"]
-	path = ggExtra
-	url = https://github.com/daattali/ggextra
-	shallow = true
-	registered = true
-[submodule "lightsout"]
-	path = lightsout
-	url = https://github.com/daattali/lightsout
-	shallow = true
-	registered = true
-[submodule "shinyalert"]
-	path = shinyalert
-	url = https://github.com/daattali/shinyalert
-	shallow = true
-	registered = true
 [submodule "shinybrowser"]
 	path = shinybrowser
 	url = https://github.com/daattali/shinybrowser
+	shallow = true
+	registered = true
+[submodule "shinyscreenshot"]
+	path = shinyscreenshot
+	url = https://github.com/daattali/shinyscreenshot
+	shallow = true
+	registered = true
+[submodule "addinslist"]
+	path = addinslist
+	url = https://github.com/daattali/addinslist
+	shallow = true
+	registered = true
+[submodule "ggExtra"]
+	path = ggExtra
+	url = https://github.com/daattali/ggextra
 	shallow = true
 	registered = true
 [submodule "shinycssloaders"]
@@ -48,14 +43,19 @@
 	url = https://github.com/daattali/shinydisconnect
 	shallow = true
 	registered = true
-[submodule "shinyjs"]
-	path = shinyjs
-	url = https://github.com/daattali/shinyjs
+[submodule "lightsout"]
+	path = lightsout
+	url = https://github.com/daattali/lightsout
 	shallow = true
 	registered = true
-[submodule "shinyscreenshot"]
-	path = shinyscreenshot
-	url = https://github.com/daattali/shinyscreenshot
+[submodule "shinyalert"]
+	path = shinyalert
+	url = https://github.com/daattali/shinyalert
+	shallow = true
+	registered = true
+[submodule "colourpicker"]
+	path = colourpicker
+	url = https://github.com/daattali/colourpicker
 	shallow = true
 	registered = true
 [submodule "timevis"]
