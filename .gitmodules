@@ -8,6 +8,9 @@
 [submodule "colourpicker"]
 	path = colourpicker
 	url = https://github.com/daattali/colourpicker
+[submodule "ddpcr"]
+	path = ddpcr
+	url = https://github.com/daattali/ddpcr
 [submodule "ggExtra"]
 	path = ggExtra
 	url = https://github.com/daattali/ggextra
