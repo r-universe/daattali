@@ -38,3 +38,6 @@
 [submodule "timevis"]
 	path = timevis
 	url = https://github.com/daattali/timevis
+[submodule "undomanager"]
+	path = undomanager
+	url = https://github.com/daattali/undomanager
